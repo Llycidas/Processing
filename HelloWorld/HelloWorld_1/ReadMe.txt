@@ -1,0 +1,1 @@
+unterschiedliche Kreise werden zufällig im Fenster generiert
